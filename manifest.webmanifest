@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "وقتي بذكاء | مساعدك لتنظيم اليوم",
+  "short_name": "وقتي بذكاء",
+  "description": "مدير مهام عربي بتخطيط يومي ونسخ احتياطي محلي.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#f6f7fb",
+  "theme_color": "#6957d8",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
