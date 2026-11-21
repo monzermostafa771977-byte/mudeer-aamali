@@ -1,4 +1,4 @@
-const CACHE_NAME = 'waqti-bizaka-v2';
+const CACHE_NAME = 'waqti-bizaka-v3-installfix';
 const CORE_FILES = [
   './',
   './index.html',
